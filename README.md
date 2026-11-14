@@ -1,3 +1,5 @@
+> **已迁移 / Deprecated**：内容已搬到 [video-skills](https://github.com/SuperCarryDoinb-1/video-skills) 的 `skills/mini-program-video/`。本仓库仅作归档保留，不再更新。
+
 # wechat-mini-program-video
 
 给微信小程序 / App / Web 产品做**产品介绍片**的实战 skill：一套流程 + 一份踩坑清单。
